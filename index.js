@@ -18,6 +18,7 @@ let timeBetweenTwoProjectiles = 1000;
 let enemies = [];
 let projectiles = [];
 let projectileRadius = 10;
+// something
 // create player
 const player = new Player(middleX, middleY, 30, "red");
 
